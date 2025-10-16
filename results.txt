@@ -1,0 +1,238 @@
+--- Outcomes ---
+Total vehicles: 1037
+Total trucks: 109
+Electric vehicles: 368
+Two wheeled vehicles: 401
+Buses north: 15
+Non turning vehicles: 363
+Truck percentage: 11
+Average bicycles per hour: 7
+Speeding vehicles: 205
+Elm vehicles: 494
+Hanley vehicles: 543
+Scooter percentage: 11
+Peak hour vehicles: 39
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 0
+
+--- Outcomes ---
+Total vehicles: 101
+Total trucks: 11
+Electric vehicles: 29
+Two wheeled vehicles: 29
+Buses north: 0
+Non turning vehicles: 38
+Truck percentage: 11
+Average bicycles per hour: 0
+Speeding vehicles: 20
+Elm vehicles: 52
+Hanley vehicles: 49
+Scooter percentage: 6
+Peak hour vehicles: 5
+Peak hour times: ['Between 01:00 and 2:00']
+Rain hours: 3
+
+--- Outcomes ---
+Total vehicles: 1334
+Total trucks: 138
+Electric vehicles: 442
+Two wheeled vehicles: 503
+Buses north: 19
+Non turning vehicles: 494
+Truck percentage: 10
+Average bicycles per hour: 10
+Speeding vehicles: 250
+Elm vehicles: 651
+Hanley vehicles: 683
+Scooter percentage: 10
+Peak hour vehicles: 71
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 6
+
+--- Outcomes ---
+Total vehicles: 1037
+Total trucks: 109
+Electric vehicles: 368
+Two wheeled vehicles: 401
+Buses north: 15
+Non turning vehicles: 363
+Truck percentage: 11
+Average bicycles per hour: 7
+Speeding vehicles: 205
+Elm vehicles: 494
+Hanley vehicles: 543
+Scooter percentage: 11
+Peak hour vehicles: 39
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 0
+
+--- Outcomes ---
+Total vehicles: 101
+Total trucks: 11
+Electric vehicles: 29
+Two wheeled vehicles: 29
+Buses north: 0
+Non turning vehicles: 38
+Truck percentage: 11
+Average bicycles per hour: 0
+Speeding vehicles: 20
+Elm vehicles: 52
+Hanley vehicles: 49
+Scooter percentage: 6
+Peak hour vehicles: 5
+Peak hour times: ['Between 01:00 and 2:00']
+Rain hours: 3
+
+--- Outcomes ---
+Total vehicles: 1334
+Total trucks: 138
+Electric vehicles: 442
+Two wheeled vehicles: 503
+Buses north: 19
+Non turning vehicles: 494
+Truck percentage: 10
+Average bicycles per hour: 10
+Speeding vehicles: 250
+Elm vehicles: 651
+Hanley vehicles: 683
+Scooter percentage: 10
+Peak hour vehicles: 71
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 6
+
+--- Outcomes ---
+Total vehicles: 1037
+Total trucks: 109
+Electric vehicles: 368
+Two wheeled vehicles: 401
+Buses north: 15
+Non turning vehicles: 363
+Truck percentage: 11
+Average bicycles per hour: 7
+Speeding vehicles: 205
+Elm vehicles: 494
+Hanley vehicles: 543
+Scooter percentage: 11
+Peak hour vehicles: 39
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 0
+
+--- Outcomes ---
+Total vehicles: 101
+Total trucks: 11
+Electric vehicles: 29
+Two wheeled vehicles: 29
+Buses north: 0
+Non turning vehicles: 38
+Truck percentage: 11
+Average bicycles per hour: 0
+Speeding vehicles: 20
+Elm vehicles: 52
+Hanley vehicles: 49
+Scooter percentage: 6
+Peak hour vehicles: 5
+Peak hour times: ['Between 01:00 and 2:00']
+Rain hours: 3
+
+--- Outcomes ---
+Total vehicles: 1334
+Total trucks: 138
+Electric vehicles: 442
+Two wheeled vehicles: 503
+Buses north: 19
+Non turning vehicles: 494
+Truck percentage: 10
+Average bicycles per hour: 10
+Speeding vehicles: 250
+Elm vehicles: 651
+Hanley vehicles: 683
+Scooter percentage: 10
+Peak hour vehicles: 71
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 6
+
+--- Outcomes ---
+Total vehicles: 1037
+Total trucks: 109
+Electric vehicles: 368
+Two wheeled vehicles: 401
+Buses north: 15
+Non turning vehicles: 363
+Truck percentage: 11
+Average bicycles per hour: 7
+Speeding vehicles: 205
+Elm vehicles: 494
+Hanley vehicles: 543
+Scooter percentage: 11
+Peak hour vehicles: 39
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 0
+
+--- Outcomes ---
+Total vehicles: 101
+Total trucks: 11
+Electric vehicles: 29
+Two wheeled vehicles: 29
+Buses north: 0
+Non turning vehicles: 38
+Truck percentage: 11
+Average bicycles per hour: 0
+Speeding vehicles: 20
+Elm vehicles: 52
+Hanley vehicles: 49
+Scooter percentage: 6
+Peak hour vehicles: 5
+Peak hour times: ['Between 01:00 and 2:00']
+Rain hours: 3
+
+--- Outcomes ---
+Total vehicles: 1037
+Total trucks: 109
+Electric vehicles: 368
+Two wheeled vehicles: 401
+Buses north: 15
+Non turning vehicles: 363
+Truck percentage: 11
+Average bicycles per hour: 7
+Speeding vehicles: 205
+Elm vehicles: 494
+Hanley vehicles: 543
+Scooter percentage: 11
+Peak hour vehicles: 39
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 0
+
+--- Outcomes ---
+Total vehicles: 101
+Total trucks: 11
+Electric vehicles: 29
+Two wheeled vehicles: 29
+Buses north: 0
+Non turning vehicles: 38
+Truck percentage: 11
+Average bicycles per hour: 0
+Speeding vehicles: 20
+Elm vehicles: 52
+Hanley vehicles: 49
+Scooter percentage: 6
+Peak hour vehicles: 5
+Peak hour times: ['Between 01:00 and 2:00']
+Rain hours: 3
+
+--- Outcomes ---
+Total vehicles: 1334
+Total trucks: 138
+Electric vehicles: 442
+Two wheeled vehicles: 503
+Buses north: 19
+Non turning vehicles: 494
+Truck percentage: 10
+Average bicycles per hour: 10
+Speeding vehicles: 250
+Elm vehicles: 651
+Hanley vehicles: 683
+Scooter percentage: 10
+Peak hour vehicles: 71
+Peak hour times: ['Between 18:00 and 19:00']
+Rain hours: 6
+
